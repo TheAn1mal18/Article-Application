@@ -17,4 +17,4 @@ Bugs:
   * no functionality to the engadget button yet.
   * unable to use any of those features displayed.
 
-[link](https://github.com/TheAn1mal18/Article-Application/blob/master/Article%20Application%20Flowchart.png?raw=true)
+![The San Juan Mountains are beautiful!](https://github.com/TheAn1mal18/Article-Application/blob/master/Article%20Application%20Flowchart.png?raw=true "San Juan Mountains")
